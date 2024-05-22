@@ -20,7 +20,7 @@ namespace ModelsAspCore.Controllers
                 new StudentModel {RollNo = 1, Name = "Abhishek", Gender = "Male", Standard = 5},
                 new StudentModel {RollNo = 2, Name = "Aryan Raj", Gender = "Male", Standard = 6},
                 new StudentModel {RollNo = 3, Name = "Vikash Ojha", Gender = "Male", Standard = 7},
-                new StudentModel {RollNo = 4, Name = "Vinay Singh", Gender = "Male", Standard = 8},
+                new StudentModel {RollNo = 4, Name = "Vinay Singh", Gender = "Male", Standard = 5},
                 new StudentModel {RollNo = 5, Name = "Prakash Yadav", Gender = "Male", Standard = 10},
             };
 
